@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="Agree">确认</string>
+  <string name="Cancel">取消</string>
+  <string name="Ignore">忽略</string>
+  <string name="LongPositive">很长的按钮，是非常长的那种，看来还是不够长啊</string>
+  
+  <string name="Content">测试内容1测试内容2测试内容3测试内容4测试内容5</string>
+  <string name="WithBasic">最基本的Dialog</string>
+  <string name="WithIcon">带有图标的Dialog</string>
+  <string name="WithLongButton">带有很长文字按钮的Dialog</string>
+  <string name="WithThreeButton">带有三个按钮的Dialog</string>
+  <string name="WithCallback">带有回调的Dialog</string>
+  <string name="WithList">带有列表的Dialog</string>
+  <string name="WithSingle">单选的Dialog</string>
+  <string name="WithMultip">多选的Dialog</string>
+  <string name="WithInput">输入框的Dialog</string>
+  <string name="WithProgress">进度条的Dialog</string>
+  
+  <string name="ApplicationName">MaterialDialogs.Sample</string>
+</resources>

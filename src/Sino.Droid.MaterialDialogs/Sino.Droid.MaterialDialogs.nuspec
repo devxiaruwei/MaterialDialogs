@@ -1,0 +1,16 @@
+﻿<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>$id$</id>
+    <version>0.7.9.3</version>
+    <title>Sino.Droid.MaterialDialogs</title>
+    <authors>姚正发</authors>
+    <owners>sino</owners>
+    <licenseUrl>http://opensource.org/licenses/GPL-3.0</licenseUrl>
+    <projectUrl>http://www.sowl.cn</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Xamarin.Android的Material Dialog</description>
+    <copyright>Copyright 2015</copyright>
+    <tags>Xamarin Android</tags>
+  </metadata>
+</package>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools">
+    <sino.droid.materialdialogs.internal.MDButton
+        android:id="@+id/buttonDefaultNeutral"
+        style="@style/sino_droid_md_ActionButton.Text"
+        tools:text="Neutral" />
+    <sino.droid.materialdialogs.internal.MDButton
+        android:id="@+id/buttonDefaultNegative"
+        style="@style/sino_droid_md_ActionButton.Text"
+        tools:layout_alignParentLeft="true"
+        tools:layout_alignParentStart="true"
+        tools:text="Negative" />
+    <sino.droid.materialdialogs.internal.MDButton
+        android:id="@+id/buttonDefaultPositive"
+        style="@style/sino_droid_md_ActionButton.Text"
+        tools:layout_alignParentLeft="true"
+        tools:layout_alignParentStart="true"
+        tools:text="Positive" />
+</merge>

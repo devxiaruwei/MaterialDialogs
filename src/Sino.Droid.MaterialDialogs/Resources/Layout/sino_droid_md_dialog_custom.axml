@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<sino.droid.materialdialogs.internal.MDRootLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/root"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical">
+    <include
+        layout="@layout/sino_droid_md_stub_titleframe" />
+    <FrameLayout
+        android:id="@+id/customViewFrame"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+    <include
+        layout="@layout/sino_droid_md_stub_actionbuttons" />
+</sino.droid.materialdialogs.internal.MDRootLayout>

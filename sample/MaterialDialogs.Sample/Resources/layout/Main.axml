@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent">
+    <Button
+        android:id="@+id/Basic"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/WithBasic" />
+    <Button
+        android:id="@+id/DIcon"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/WithIcon" />
+    <Button
+        android:id="@+id/LongBtn"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/WithLongButton" />
+    <Button
+        android:id="@+id/ThreeButton"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/WithThreeButton" />
+    <Button
+        android:id="@+id/Callback"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/WithCallback" />
+    <Button
+        android:id="@+id/List"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/WithList" />
+    <Button
+        android:id="@+id/Single"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/WithSingle" />
+    <Button
+        android:id="@+id/Multip"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/WithMultip" />
+    <Button
+        android:id="@+id/Input"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/WithInput" />
+    <Button
+        android:id="@+id/Progress"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/WithProgress" />
+</LinearLayout>

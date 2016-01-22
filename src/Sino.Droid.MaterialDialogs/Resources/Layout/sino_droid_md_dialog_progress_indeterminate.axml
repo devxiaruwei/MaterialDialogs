@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<sino.droid.materialdialogs.internal.MDRootLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    app:sino_droid_md_reduce_padding_no_title_no_buttons="false">
+    <include
+        layout="@layout/sino_droid_md_stub_titleframe" />
+    <include
+        layout="@layout/sino_droid_md_stub_progress_indeterminate" />
+    <include
+        layout="@layout/sino_droid_md_stub_actionbuttons" />
+</sino.droid.materialdialogs.internal.MDRootLayout>
