@@ -61,6 +61,10 @@
   <ItemGroup>
     <Reference Include="Mono.Android" />
     <Reference Include="mscorlib" />
+    <Reference Include="Sino.Droid.MaterialDialogs, Version=0.7.9.3, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>packages\Sino.Droid.MaterialDialogs.0.7.9.3\lib\MonoAndroid50\Sino.Droid.MaterialDialogs.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />
     <Reference Include="System.Xml.Linq" />
@@ -104,12 +108,6 @@
   </ItemGroup>
   <ItemGroup>
     <AndroidResource Include="Resources\values\Arrays.xml" />
-  </ItemGroup>
-  <ItemGroup>
-    <ProjectReference Include="..\Sino.Droid.MaterialDialogs\Sino.Droid.MaterialDialogs.csproj">
-      <Project>{a0baba01-754f-45b1-becb-4611ce7f88b6}</Project>
-      <Name>Sino.Droid.MaterialDialogs</Name>
-    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath)\Xamarin\Android\Xamarin.Android.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
